@@ -1,0 +1,8 @@
+build/
+dist/
+*.egg-info/
+SuiteSparse*/
+bin*/
+*.o
+*.d
+*.a
